@@ -3,7 +3,11 @@ Welcome to the JPMorgan Chase Software Engineering Virtual Experience! In this t
 <br><br>
 ## Task Overview
 ### 1. Setting Up Your Local Development Environment
-Before you start working on the project, ensure that you have a properly configured new virtual development environment. Download the necessary dependencies by installing `python-dateutil==2.8.2` to meet the project requirements. See file, `requirements.txt` located in the main root of this repo once cloned.
+Before you start working on the project, ensure that you have a properly configured [new virtual development environment](https://www.youtube.com/watch?v=GZbeL5AcTgw). Next, download the necessary dependencies by installing &nbsp; "*python-dateutil==2.8.2*" &nbsp; to meet the project requirements as shown below.
+```
+python -m pip install python-dateutil==2.8.2
+```
+See file, `requirements.txt` located in the main root of this repo once cloned.
 <br><br>
 
 ### 2. Fixing the Client Data Feed Script
